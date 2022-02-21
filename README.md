@@ -18,3 +18,5 @@ Now we can see that the matching images are removed and added to our NFT collect
 Here is what it will look like when one has completed the game:
 
 ![Screenshot 2022-02-20 182238](https://user-images.githubusercontent.com/90572944/154880906-f92544bf-2eae-4471-af64-0ed250f6bc83.png)
+
+![Screenshot (101)-Cropped](https://user-images.githubusercontent.com/90572944/154881183-9da99e99-e5c2-45ef-a270-b119ef531d5b.png)
